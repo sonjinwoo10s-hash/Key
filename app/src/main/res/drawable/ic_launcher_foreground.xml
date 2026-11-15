@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Royal Blue Rounded Box -->
+    <path
+        android:fillColor="#2B5CE6"
+        android:pathData="M26,34h56c4.4,0 8,3.6 8,8v28c0,4.4 -3.6,8 -8,8H26c-4.4,0 -8,-3.6 -8,-8V42C18,37.6 21.6,34 26,34z"/>
+    <!-- Keyboard Keys Row 1 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,42h8v7h-8z M38,42h8v7h-8z M50,42h8v7h-8z M62,42h8v7h-8z M74,42h8v7h-8z"/>
+    <!-- Keyboard Keys Row 2 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,53h8v7h-8z M42,53h8v7h-8z M54,53h8v7h-8z M66,53h10v7h-10z"/>
+    <!-- Spacebar Gold -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M34,64h40v6h-40z"/>
+    <!-- Golden Crown on top -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M38,28l6,-9l10,7l10,-7l6,9z"/>
+</vector>

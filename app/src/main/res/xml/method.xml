@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.pro.arabickeyboard.MainActivity"
+    android:supportsSwitchingToNextInputMethod="true">
+    <subtype
+        android:label="العربية (كيبورد برو)"
+        android:imeSubtypeLocale="ar"
+        android:imeSubtypeMode="keyboard" />
+    <subtype
+        android:label="English (Keyboard Pro)"
+        android:imeSubtypeLocale="en_US"
+        android:imeSubtypeMode="keyboard" />
+</input-method>
